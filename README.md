@@ -19,17 +19,40 @@
 
 ## 🧠 About Me
 
-```ts
-const aaditya: Developer = {
-  name:     "Aaditya Sharma",
-  location: "India 🇮🇳",
-  motto:    "WORK WORK WORK!",
-  focus:    ["Full Stack", "AI/ML", "Open Source"],
-  stack:    ["TypeScript", "Python", "React", "Node.js"],
-  building: ["ConnectHub", "SafeWomen", "deepface_emotion_detector"],
-  funFact:  "I turn caffeine into TypeScript ☕→💻",
-};
-```
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 👨‍💻 Who Am I?
+Hey! I'm **Aaditya Sharma** — a passionate developer from **India 🇮🇳** who lives by one rule:
+
+> *"WORK WORK WORK!"* 💪
+
+I love building things that make a difference — from social platforms to AI-powered tools and safety apps. Whether it's frontend magic or backend logic, I'm all in.
+
+- 🔭 Currently building **ConnectHub** & **SafeWomen**
+- 🤖 Exploring **AI/ML** with deepface & emotion detection
+- 🌱 Always learning something new
+- ⚡ Fun fact: I turn ☕ caffeine into 💻 TypeScript
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🎯 Quick Facts
+
+| | |
+|---|---|
+| 📍 **Location** | India 🇮🇳 |
+| 💼 **Focus** | Full Stack + AI/ML |
+| 🧰 **Main Stack** | TypeScript, Python |
+| 🌐 **Frameworks** | React, Node.js, Next.js |
+| 🔥 **Passion** | Open Source & Impact |
+| 🎯 **Motto** | Work Work Work! |
+| 📬 **GitHub** | [@Aadityaae](https://github.com/Aadityaae) |
+
+    </td>
+  </tr>
+</table>
 
 ---
 
