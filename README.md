@@ -35,7 +35,7 @@ I love building things that make a difference — from social platforms to AI-po
 - 🌱 Always learning something new
 - ⚡ Fun fact: I turn ☕ caffeine into 💻 TypeScript
 
-    </td>
+    
     <td valign="top" width="50%">
 
 ### 🎯 Quick Facts
