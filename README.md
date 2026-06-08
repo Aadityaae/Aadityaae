@@ -4,14 +4,14 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&multiline=false&width=900&lines=%E2%9A%A1+Building+products+that+actually+ship;%F0%9F%A7%A0+Full+Stack+%2B+AI+%2B+Creative+Engineering;%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+TypeScript;%F0%9F%94%A5+Currently+building+ConnectHub+%26+SafeWomen;%F0%9F%8C%90+Open+source+contributor+in+the+making;%E2%9C%A8+WORK+WORK+WORK+%E2%80%94+always+iterating"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Building+products+that+actually+ship;%F0%9F%A7%A0+Full+Stack+%2B+AI+%2B+Creative+Engineering;%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+TypeScript;%F0%9F%94%A5+Currently+building+ConnectHub+%26+SafeWomen;%F0%9F%8C%90+Open+source+contributor+in+the+making;%E2%9C%A8+WORK+WORK+WORK+%E2%80%94+always+iterating"/>
 
 <br/>
 
-<a href="https://github.com/Aadityaae"><img src="https://komarev.com/ghpvc/?username=Aadityaae&label=Profile+Views&color=7c3aed&style=for-the-badge&logo=eye"/></a>
-<a href="https://github.com/Aadityaae?tab=followers"><img src="https://img.shields.io/github/followers/Aadityaae?label=Followers&style=for-the-badge&color=00d4ff&logo=github"/></a>
-<a href="https://github.com/Aadityaae"><img src="https://img.shields.io/github/stars/Aadityaae?affiliations=OWNER&label=Total+Stars&style=for-the-badge&color=7c3aed&logo=star"/></a>
-<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00d4ff?style=for-the-badge&logo=checkmarx"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Aadityaae&label=Profile+Views&color=7c3aed&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Aadityaae?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white)](https://github.com/Aadityaae?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/Aadityaae?affiliations=OWNER%2CCOLLABORATOR&label=Total+Stars&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/Aadityaae)
+![Status](https://img.shields.io/badge/Open%20to-Opportunities-00d4ff?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -26,15 +26,14 @@
 I'm a **Full Stack Developer** from India who builds fast, functional, and polished software. I care about clean architecture, great UX, and shipping real things.
 
 ```yaml
-name:        Aaditya Sharma
-location:    India 🇮🇳
-role:        Full Stack Developer + AI Builder
-university:  B.Tech (active)
-focus:       [ Web Platforms, AI Systems, Open Source ]
-stack:       React · Next.js · Django · TypeScript · Python
-currently:   Building ConnectHub & SafeWomen
-available:   Internships & Collabs ✅
-motto:       "Build first. Perfect later."
+name:       Aaditya Sharma
+location:   India 🇮🇳
+role:       Full Stack Developer + AI Builder
+focus:      [ Web Platforms, AI Systems, Open Source ]
+stack:      React · Next.js · Django · TypeScript · Python
+building:   ConnectHub & SafeWomen
+available:  Internships & Collabs ✅
+motto:      "Build first. Perfect later."
 ```
 
 **What I'm about:**
@@ -60,17 +59,16 @@ motto:       "Build first. Perfect later."
 > A full-featured social networking platform with real-time interactions, feeds, and user discovery.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**Key Features:**
 - 🔴 Real-time feeds & notifications
 - 👥 User discovery & following system
 - 💬 Messaging & interactions
 - 📱 Fully responsive design
 
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/Aadityaae/connecthub)
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadityaae/connecthub)
 
 </td>
 <td width="50%" valign="top">
@@ -85,13 +83,12 @@ motto:       "Build first. Perfect later."
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
 
-**Key Features:**
 - 🆘 One-tap emergency SOS
 - 📍 Real-time location sharing
 - 🗺️ Nearby safe places mapping
 - 🔔 Trusted contact alerts
 
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/Aadityaae/SafeWomen)
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadityaae/SafeWomen)
 
 </td>
 </tr>
@@ -103,12 +100,11 @@ motto:       "Build first. Perfect later."
 
 > A comprehensive learning management system with courses, quizzes, and progress tracking.
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Key Features:**
 - 📚 Structured course pathways
 - 🧪 Interactive quizzes & assessments
 - 📊 Learning analytics dashboard
@@ -125,15 +121,14 @@ motto:       "Build first. Perfect later."
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-000?style=flat-square&logo=meta)
+![DeepFace](https://img.shields.io/badge/DeepFace-000000?style=flat-square&logo=meta&logoColor=white)
 
-**Key Features:**
 - 🎭 7-class emotion classification
 - 📹 Real-time webcam inference
 - 🧠 DeepFace + custom CNN model
 - 📈 Confidence scores & overlays
 
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github)](https://github.com/Aadityaae/deepface_emotion_detector)
+[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadityaae/deepface_emotion_detector)
 
 </td>
 </tr>
@@ -141,37 +136,29 @@ motto:       "Build first. Perfect later."
 
 ---
 
-## 🧩 Tech Stack & Tools
+## 🧩 Tech Stack
 
 <div align="center">
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=dark" />
 
----
-
 ### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite,figma&theme=dark" />
-
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
 
 ### 🛠️ Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,django,express,supabase,postgres,mongodb&theme=dark" />
 
----
-
-### 🔧 Dev Tools & Platforms
+### 🔧 DevTools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" />
 
----
-
-### 🤖 AI / ML Stack
+### 🤖 AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
@@ -181,16 +168,16 @@ motto:       "Build first. Perfect later."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&custom_title=Aaditya%27s+GitHub+Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8&custom_title=Most+Used+Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=7C3AED&fire=00D4FF&currStreakLabel=7C3AED"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=00D4FF&currStreakLabel=7C3AED"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7c3aed&line=00d4ff&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Aaditya%27s+Contribution+Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7c3aed&line=00d4ff&point=ffffff&area=true&area_color=7c3aed&hide_border=true"/>
 
 </div>
 
@@ -220,70 +207,95 @@ motto:       "Build first. Perfect later."
 
 ```
 FRONTEND DEVELOPMENT
-React / Next.js      ████████████████████░  95%
-TypeScript           ██████████████████░░░  88%
-Tailwind CSS         ████████████████████░  92%
-UI/UX Design         ████████████████░░░░░  78%
+React / Next.js       ████████████████████░  95%
+TypeScript            ██████████████████░░░  88%
+Tailwind CSS          ████████████████████░  92%
+UI/UX Design          ████████████████░░░░░  78%
 
 BACKEND DEVELOPMENT
-Django / DRF         ██████████████████░░░  85%
-Node.js / Express    ████████████████░░░░░  78%
-REST API Design      ████████████████████░  92%
-Databases (SQL/NoSQL)████████████████░░░░░  80%
+Django / DRF          ██████████████████░░░  85%
+Node.js / Express     ████████████████░░░░░  78%
+REST API Design       ████████████████████░  92%
+SQL + NoSQL           ████████████████░░░░░  80%
 
 AI / MACHINE LEARNING
-Computer Vision      ████████████████░░░░░  76%
-Model Integration    ██████████████████░░░  84%
-LLM / API Usage      ████████████████████░  90%
-Data Pipelines       ████████████░░░░░░░░░  60%
+Computer Vision       ████████████████░░░░░  76%
+Model Integration     ██████████████████░░░  84%
+LLM / API Usage       ████████████████████░  90%
+Data Pipelines        ████████████░░░░░░░░░  60%
 
-INFRASTRUCTURE & DEVOPS
-Git / GitHub         ████████████████████░  95%
-Vercel / Deployment  ████████████████████░  90%
-Docker               ████████████░░░░░░░░░  58%
-Linux / CLI          ██████████████████░░░  85%
+DEVOPS & INFRASTRUCTURE
+Git / GitHub          ████████████████████░  95%
+Vercel / Deployment   ████████████████████░  90%
+Docker                ████████████░░░░░░░░░  58%
+Linux / CLI           ██████████████████░░░  85%
 ```
 
 ---
 
 ## 🗓️ 2026 Roadmap
 
-```
-[Q1 - Q2 2026]
- ✅ Build ConnectHub MVP
- ✅ Ship SafeWomen v1
- 🔄 Launch AI-powered SaaS product
- 🔄 Reach 100 GitHub Stars
-
-[Q3 - Q4 2026]
- 📌 Deep dive into system design
- 📌 Contribute to 3+ open source projects
- 📌 Master Docker & Kubernetes
- 📌 Build a CLI dev tool
- 📌 Write technical blog posts
-```
-
 | Goal | Status | Target |
 |------|--------|--------|
 | 🚀 Launch SaaS Product | 🔄 In Progress | Q2 2026 |
 | ⭐ 100 GitHub Stars | 🔄 In Progress | Q3 2026 |
-| 🐳 Docker / DevOps | 📌 Planned | Q3 2026 |
-| 🌍 Open Source Contrib | 📌 Planned | Q4 2026 |
+| 🐳 Docker / DevOps Deep Dive | 📌 Planned | Q3 2026 |
+| 🌍 Open Source Contributions | 📌 Planned | Q4 2026 |
 | ✍️ Technical Blog | 📌 Planned | Q4 2026 |
+
+```
+[Q1–Q2 2026]  ✅ ConnectHub MVP  ✅ SafeWomen v1  🔄 SaaS launch
+[Q3–Q4 2026]  📌 Docker/K8s  📌 3+ OSS contributions  📌 Dev blog
+```
 
 ---
 
 ## 🐍 Contribution Snake
 
+> **One-time setup required** — create `.github/workflows/snake.yml` in your profile repo with the content below, then run it once from the Actions tab. After that it auto-updates daily.
+
+<details>
+<summary>📋 Click to copy snake.yml workflow</summary>
+
+```yaml
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+```
+
+Also go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
+
+</details>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
   </picture>
 </div>
-
-> **Setup:** Create `.github/workflows/snake.yml` to auto-generate — see [platane/snk](https://github.com/platane/snk)
 
 ---
 
@@ -297,7 +309,7 @@ Linux / CLI          ██████████████████░�
 ║   while (alive) {                                    ║
 ║       identify_problem();                            ║
 ║       build_mvp();          // ship fast             ║
-║       get_feedback();       // iterate               ║
+║       get_feedback();       // iterate always        ║
 ║       improve();            // compound daily        ║
 ║       repeat();                                      ║
 ║   }                                                  ║
@@ -313,14 +325,14 @@ Linux / CLI          ██████████████████░�
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadityasharma)
-[![Twitter / X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/aadityaae)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://aadityaae.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadityasharma@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <br/>
 
@@ -331,9 +343,6 @@ Linux / CLI          ██████████████████░�
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00D4FF,50:7C3AED,100:090979&section=footer&reversal=false"/>
-
-<sub>⚡ Built with passion — by Aaditya Sharma · Updated 2026</sub>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00D4FF,50:7C3AED,100:090979&section=footer"/>
+<sub>⚡ Built with passion — Aaditya Sharma · 2026</sub>
 </div>
