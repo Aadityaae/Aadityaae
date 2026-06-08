@@ -1,197 +1,209 @@
+````md
 <div align="center">
 
-<!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aaditya%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Tinkerer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090979,50:7C3AED,100:00D4FF&text=Aaditya%20Sharma&fontColor=ffffff&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Creative%20Engineer&descAlignY=58"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=WORK+WORK+WORK!;Building+things+that+matter+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+Full+Stack;Open+Source+Enthusiast+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=WORK+WORK+WORK+⚡;Building+Products+that+feel+alive;Full+Stack+Developer;AI+Experiments+%2B+Modern+UI;Learning+Every+Single+Day)](https://git.io/typing-svg)
 
-<br/>
+<br>
 
-<!-- Profile views & social badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=Aadityaae&label=Profile%20Views&color=7c3aed&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Aadityaae?label=Followers&style=flat-square&color=7c3aed)](https://github.com/Aadityaae?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Aadityaae?label=Total%20Stars&style=flat-square&color=7c3aed)](https://github.com/Aadityaae)
+![Views](https://komarev.com/ghpvc/?username=Aadityaae&color=7c3aed)
+![Followers](https://img.shields.io/github/followers/Aadityaae?color=7c3aed)
+![Stars](https://img.shields.io/github/stars/Aadityaae?color=7c3aed)
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 👋 Hey, I'm Aaditya
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-### 👨‍💻 Who Am I?
-Hey! I'm **Aaditya Sharma** — a passionate developer from **India 🇮🇳** who lives by one rule:
+### 🚀 About Me
 
-> *"WORK WORK WORK!"* 💪
+I build modern applications, AI experiments and polished digital experiences.
 
-I love building things that make a difference — from social platforms to AI-powered tools and safety apps. Whether it's frontend magic or backend logic, I'm all in.
+Current obsession:
+- 🌐 Full Stack Development
+- 🤖 AI + Computer Vision
+- 🎮 Creative Frontend Experiences
+- ⚡ Performance & Clean UI
 
-- 🔭 Currently building **ConnectHub** & **SafeWomen**
-- 🤖 Exploring **AI/ML** with deepface & emotion detection
-- 🌱 Always learning something new
-- ⚡ Fun fact: I turn ☕ caffeine into 💻 TypeScript
+### Current Projects
 
-    </td>
-    <td valign="top" width="50%">
+🟣 **ConnectHub**  
+Social platform focused on interaction and scalability.
 
-### 🎯 Quick Facts
+🟡 **SafeWomen**  
+Women safety platform with emergency systems.
 
-| | |
-|---|---|
-| 📍 **Location** | India 🇮🇳 |
-| 💼 **Focus** | Full Stack + AI/ML |
-| 🧰 **Main Stack** | TypeScript, Python |
-| 🌐 **Frameworks** | React, Node.js, Next.js |
-| 🔥 **Passion** | Open Source & Impact |
-| 🎯 **Motto** | Work Work Work! |
-| 📬 **GitHub** | [@Aadityaae](https://github.com/Aadityaae) |
+🔵 **DeepFace Emotion Detector**  
+Real-time facial emotion detection.
 
-    </td>
-  </tr>
-</table>
+🔴 **Convert_it_Ezz**  
+Fast media conversion experience.
+
+🟢 **LearnFinity**  
+Modern E-learning ecosystem.
 
 ---
 
-## 🛠️ Tech Stack
+# 🧩 Tech Universe
 
 <div align="center">
 
 ### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css"/>
 
-### AI / ML
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### Frontend
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite"/>
 
-</div>
+### Backend
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,django,express,supabase"/>
 
-## 📊 GitHub Stats
+### AI / Data
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117"/>
+### Dev Tools
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Highlighted Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🟣 ConnectHub
+
+✨ Modern social platform  
+⚡ Fast UI  
+🌐 Scalable architecture  
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=connecthub&theme=midnight-purple&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=SafeWomen&theme=midnight-purple&hide_border=true"/>
+
+</td>
+
+<td>
+
+## 🟡 SafeWomen
+
+📍 Real-time tracking  
+🚨 Emergency alerts  
+🛡️ Safety-first design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🔵 AI Emotion Detector
+
+😀 Detect emotions live  
+📷 Computer vision  
+⚙️ DeepFace integration
+
+</td>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=deepface_emotion_detector&theme=midnight-purple&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-[![ConnectHub](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=connecthub&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/Aadityaae/connecthub)
-[![SafeWomen](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=SafeWomen&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/Aadityaae/SafeWomen)
-[![deepface_emotion_detector](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=deepface_emotion_detector&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/Aadityaae/deepface_emotion_detector)
-[![Yt2Mp3](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=Yt2Mp3&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/Aadityaae/Yt2Mp3)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7C3AED&line=00D4FF&point=ffffff&area=true&hide_border=true"/>
+
+<br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 📅 2026 Roadmap
+
+☑ Build production-grade projects  
+☑ Improve UI/UX skills  
+☐ Ship an AI SaaS  
+☐ Reach 100+ GitHub stars  
+☐ Contribute to Open Source  
+
+---
+
+# 🎯 Currently Learning
+
+```txt
+███████████░░░░░░░  React Architecture
+██████████████░░░░  TypeScript
+█████████░░░░░░░░░  AI / ML
+████████████░░░░░░  Backend Systems
+````
+
+---
+
+# ☕ Support
 
 <div align="center">
 
-![Snake animation](https://github.com/Aadityaae/Aadityaae/blob/output/github-contribution-grid-snake-dark.svg)
+If you like what I build —
+
+⭐ Star repositories
+🍴 Fork projects
+💬 Connect & collaborate
 
 </div>
 
-> ⚠️ **To enable the snake:** Go to your repo **Settings → Actions → General** and set Workflow permissions to "Read and write". Then add this GitHub Action:
+---
 
-<details>
-<summary>📋 Click to see the snake workflow</summary>
+<div align="center">
 
-Create `.github/workflows/snake.yml` in your profile repo:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D4FF,50:7C3AED,100:090979"/>
 
-```yaml
-name: generate animation
+### *BUILD • ITERATE • REPEAT*
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</div>
 ```
-
-</details>
-
----
-
-## 📈 Activity Graph
-
-[![Aaditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aadityaae&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-*"The best way to predict the future is to build it."*
-
-⭐ **Star my repos if you find them useful!** ⭐
-
-</div>
