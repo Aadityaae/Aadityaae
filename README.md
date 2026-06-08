@@ -1,15 +1,18 @@
-````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090979,50:7C3AED,100:00D4FF&text=Aaditya%20Sharma&fontColor=ffffff&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Creative%20Engineer&descAlignY=58"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=WORK+WORK+WORK+⚡;Building+Products+that+feel+alive;Full+Stack+Developer;AI+Experiments+%2B+Modern+UI;Learning+Every+Single+Day)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090979,50:7C3AED,100:00D4FF&text=Aaditya%20Sharma&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20AI%20Builder%20•%20Creative%20Engineer&descAlignY=58"/>
 
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=Aadityaae&color=7c3aed)
-![Followers](https://img.shields.io/github/followers/Aadityaae?color=7c3aed)
-![Stars](https://img.shields.io/github/stars/Aadityaae?color=7c3aed)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=800&lines=WORK+WORK+WORK+⚡;Building+Projects+That+Matter;Full+Stack+Developer;AI+Explorer;Always+Shipping"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Aadityaae&label=PROFILE+VIEWS&color=7c3aed"/>
+
+<img src="https://img.shields.io/github/followers/Aadityaae?style=for-the-badge&color=7c3aed"/>
+
+<img src="https://img.shields.io/github/stars/Aadityaae?style=for-the-badge&color=7c3aed"/>
 
 </div>
 
@@ -17,130 +20,82 @@
 
 # 👋 Hey, I'm Aaditya
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-### 🚀 About Me
+### Builder. Creator. Learner.
 
-I build modern applications, AI experiments and polished digital experiences.
+I enjoy building:
 
-Current obsession:
-- 🌐 Full Stack Development
-- 🤖 AI + Computer Vision
-- 🎮 Creative Frontend Experiences
-- ⚡ Performance & Clean UI
-
-### Current Projects
-
-🟣 **ConnectHub**  
-Social platform focused on interaction and scalability.
-
-🟡 **SafeWomen**  
-Women safety platform with emergency systems.
-
-🔵 **DeepFace Emotion Detector**  
-Real-time facial emotion detection.
-
-🔴 **Convert_it_Ezz**  
-Fast media conversion experience.
-
-🟢 **LearnFinity**  
-Modern E-learning ecosystem.
+- 🌐 Full Stack Platforms
+- 🤖 AI Projects
+- 🎨 Premium UI Experiences
+- ⚡ Fast Web Apps
+- 🧠 Creative Experiments
 
 ---
 
-# 🧩 Tech Universe
+# 🧠 Developer Dashboard
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,express,supabase"/>
-
-### AI / Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
-
-### Dev Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma"/>
-
-</div>
+| Category | Info |
+|----------|------|
+| Name | Aaditya Sharma |
+| Location | India |
+| Focus | Full Stack + AI |
+| Stack | React / Next / Django |
+| Goal | Build products |
+| Motto | WORK WORK WORK |
 
 ---
 
-# 🏆 Highlighted Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
+# 🚀 Current Projects
 
 ## 🟣 ConnectHub
 
-✨ Modern social platform  
-⚡ Fast UI  
-🌐 Scalable architecture  
+Modern social platform.
 
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=connecthub&theme=midnight-purple&hide_border=true"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=SafeWomen&theme=midnight-purple&hide_border=true"/>
-
-</td>
-
-<td>
+---
 
 ## 🟡 SafeWomen
 
-📍 Real-time tracking  
-🚨 Emergency alerts  
-🛡️ Safety-first design
+Women safety ecosystem.
 
-</td>
+---
 
-</tr>
+## 🔵 LearnFinity
 
-<tr>
+Modern E-learning platform.
 
-<td>
+---
 
-## 🔵 AI Emotion Detector
+## 🔴 Emotion Detector
 
-😀 Detect emotions live  
-📷 Computer vision  
-⚙️ DeepFace integration
+AI + Computer Vision.
 
-</td>
+---
 
-<td>
+# 🧩 Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=deepface_emotion_detector&theme=midnight-purple&hide_border=true"/>
+## Languages
 
-</td>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css"/>
 
-</tr>
+---
 
-</table>
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,vite"/>
+
+---
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,django,express,supabase"/>
+
+---
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel"/>
 
 ---
 
@@ -148,62 +103,76 @@ Modern E-learning ecosystem.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7C3AED&line=00D4FF&point=ffffff&area=true&hide_border=true"/>
-
-<br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&theme=midnight-purple"/>
 
 </div>
 
 ---
 
-# 📅 2026 Roadmap
+# 🔥 GitHub Streak
 
-☑ Build production-grade projects  
-☑ Improve UI/UX skills  
-☐ Ship an AI SaaS  
-☐ Reach 100+ GitHub stars  
-☐ Contribute to Open Source  
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple"/>
+
+</div>
 
 ---
 
-# 🎯 Currently Learning
+# 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7c3aed&line=00d4ff&point=ffffff&area=true"/>
+
+</div>
+
+---
+
+# 🏆 Featured Projects
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=connecthub&theme=midnight-purple"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=SafeWomen&theme=midnight-purple"/>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=deepface_emotion_detector&theme=midnight-purple"/>
+
+</div>
+
+---
+
+# 📅 2026 Goals
+
+- [ ] Launch AI Project
+- [ ] Build SaaS
+- [ ] Reach 100 Stars
+- [ ] Improve Backend
+- [ ] Open Source
+
+---
+
+# 🧪 Currently Exploring
 
 ```txt
-███████████░░░░░░░  React Architecture
-██████████████░░░░  TypeScript
-█████████░░░░░░░░░  AI / ML
-████████████░░░░░░  Backend Systems
-````
+██████████████░░ React
+████████████░░░ TypeScript
+█████████░░░░░░ AI
+███████████░░░░ Backend
+🐍 Contribution Snake
+Enable GitHub Actions
+Create output branch
+Add snake workflow
+☕ Fun Stuff
+while alive:
+   build()
+   learn()
+   improve()
+💬 Quote
 
----
+Build first. Perfect later.
 
-# ☕ Support
-
-<div align="center">
-
-If you like what I build —
-
-⭐ Star repositories
-🍴 Fork projects
-💬 Connect & collaborate
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00D4FF,50:7C3AED,100:090979"/>
-
-### *BUILD • ITERATE • REPEAT*
-
-</div>
-```
+BUILD • ITERATE • REPEAT
