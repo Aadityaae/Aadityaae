@@ -9,9 +9,11 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aadityaae&label=Profile+Views&color=7c3aed&style=for-the-badge)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aadityaae)
 [![GitHub Followers](https://img.shields.io/github/followers/Aadityaae?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white)](https://github.com/Aadityaae?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Aadityaae?affiliations=OWNER%2CCOLLABORATOR&label=Total+Stars&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/Aadityaae)
 ![Status](https://img.shields.io/badge/Open%20to-Opportunities-00d4ff?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aadityaae.Aadityaae&left_color=7c3aed&right_color=00d4ff)
 
 </div>
 
@@ -252,7 +254,15 @@ Linux / CLI           ██████████████████░�
 
 ## 🐍 Contribution Snake
 
-> **One-time setup required** — create `.github/workflows/snake.yml` in your profile repo with the content below, then run it once from the Actions tab. After that it auto-updates daily.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
+  </picture>
+</div>
+
+> **One-time setup** — create `.github/workflows/snake.yml` in your profile repo, then run it once from the Actions tab.
 
 <details>
 <summary>📋 Click to copy snake.yml workflow</summary>
@@ -285,17 +295,9 @@ jobs:
           publish_branch: output
 ```
 
-Also go to **Settings → Actions → General → Workflow permissions** and enable **Read and write permissions**.
+Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**.
 
 </details>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
-  </picture>
-</div>
 
 ---
 
