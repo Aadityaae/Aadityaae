@@ -1,350 +1,61 @@
-<div align="center">
+# Aaditya Sharma — Full Stack Developer
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,30:090979,60:7C3AED,100:00D4FF&text=Aaditya%20Sharma&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Creative%20Engineer&descSize=20&descAlignY=58&descColor=c4b5fd"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00D4FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Building+products+that+actually+ship;%F0%9F%A7%A0+Full+Stack+%2B+AI+%2B+Creative+Engineering;%F0%9F%9A%80+React+%E2%80%A2+Next.js+%E2%80%A2+Django+%E2%80%A2+TypeScript;%F0%9F%94%A5+Currently+building+ConnectHub+%26+SafeWomen;%F0%9F%8C%90+Open+source+contributor+in+the+making;%E2%9C%A8+WORK+WORK+WORK+%E2%80%94+always+iterating"/>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Aadityaae&label=Profile+Views&color=7c3aed&style=for-the-badge)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Aadityaae)
-[![GitHub Followers](https://img.shields.io/github/followers/Aadityaae?label=Followers&style=for-the-badge&color=00d4ff&logo=github&logoColor=white)](https://github.com/Aadityaae?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Aadityaae?affiliations=OWNER%2CCOLLABORATOR&label=Total+Stars&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)](https://github.com/Aadityaae)
-![Status](https://img.shields.io/badge/Open%20to-Opportunities-00d4ff?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aadityaae.Aadityaae&left_color=7c3aed&right_color=00d4ff)
-
-</div>
-
-<br/>
+India · Open to internships & collaborations
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> Hey, I'm Aaditya
+## About
 
-<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coding gif"/>
+I build full-stack web apps with a focus on shipping fast and iterating from real feedback. I care about clean architecture, usable interfaces, and products that actually work for people.
 
-I'm a **Full Stack Developer** from India who builds fast, functional, and polished software. I care about clean architecture, great UX, and shipping real things.
-
-```yaml
-name:       Aaditya Sharma
-location:   India 🇮🇳
-role:       Full Stack Developer + AI Builder
-focus:      [ Web Platforms, AI Systems, Open Source ]
-stack:      React · Next.js · Django · TypeScript · Python
-building:   ConnectHub & SafeWomen
-available:  Internships & Collabs ✅
-motto:      "Build first. Perfect later."
-```
-
-**What I'm about:**
-- 🌐 Building full-stack platforms with real users in mind
-- 🤖 Exploring AI/ML integrations in production apps
-- 🎨 Crafting clean, premium UI experiences
-- ⚡ Fast shipping — iterate relentlessly
-- 🧠 Learning in public, always
-
-<br clear="right"/>
+**Current stack:** React · Next.js · TypeScript · Django · Python · Supabase · PostgreSQL
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [ConnectHub](https://github.com/Aadityaae/connecthub) — Social Platform
+A full-featured social networking app with real-time feeds, user discovery, following system, and messaging. Built with React, Next.js, Supabase, and TypeScript.
 
-### 🟣 ConnectHub
-**Modern Social Platform**
+### [SafeWomen](https://github.com/Aadityaae/SafeWomen) — Women Safety App
+Emergency safety platform with one-tap SOS, real-time location sharing, trusted contact alerts, and nearby safe place mapping. Built with Django, React, and Google Maps API.
 
-> A full-featured social networking platform with real-time interactions, feeds, and user discovery.
+### LearnFinity — E-Learning Platform
+Course management system with structured pathways, interactive quizzes, a learning analytics dashboard, and progress certificates. Built with Next.js, Node.js, Tailwind, and PostgreSQL.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-- 🔴 Real-time feeds & notifications
-- 👥 User discovery & following system
-- 💬 Messaging & interactions
-- 📱 Fully responsive design
-
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadityaae/connecthub)
-
-</td>
-<td width="50%" valign="top">
-
-### 🟡 SafeWomen
-**Women Safety Ecosystem**
-
-> A safety-first platform providing real-time emergency alerts, location sharing, and resource access for women.
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Maps API](https://img.shields.io/badge/Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
-
-- 🆘 One-tap emergency SOS
-- 📍 Real-time location sharing
-- 🗺️ Nearby safe places mapping
-- 🔔 Trusted contact alerts
-
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadityaae/SafeWomen)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔵 LearnFinity
-**Modern E-Learning Platform**
-
-> A comprehensive learning management system with courses, quizzes, and progress tracking.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-- 📚 Structured course pathways
-- 🧪 Interactive quizzes & assessments
-- 📊 Learning analytics dashboard
-- 🏆 Certificates & progress badges
-
-</td>
-<td width="50%" valign="top">
-
-### 🔴 Emotion Detector
-**AI + Computer Vision**
-
-> Deep learning model that detects and classifies human emotions from facial expressions in real-time.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-000000?style=flat-square&logo=meta&logoColor=white)
-
-- 🎭 7-class emotion classification
-- 📹 Real-time webcam inference
-- 🧠 DeepFace + custom CNN model
-- 📈 Confidence scores & overlays
-
-[![Repo](https://img.shields.io/badge/View_Repo-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadityaae/deepface_emotion_detector)
-
-</td>
-</tr>
-</table>
+### [Emotion Detector](https://github.com/Aadityaae/deepface_emotion_detector) — Computer Vision
+Real-time facial emotion classifier (7 classes) using DeepFace and a custom CNN. Runs inference on live webcam feed with confidence score overlays. Built with Python, TensorFlow, and OpenCV.
 
 ---
 
-## 🧩 Tech Stack
+## Skills
 
-<div align="center">
+**Languages:** TypeScript, JavaScript, Python, Java, C++, HTML, CSS
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,html,css&theme=dark" />
+**Frontend:** React, Next.js, Tailwind CSS, Vite, Figma
 
-### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
+**Backend:** Node.js, Django/DRF, Express, REST API design
 
-### 🛠️ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,django,express,supabase,postgres,mongodb&theme=dark" />
+**Databases:** PostgreSQL, MongoDB, Supabase
 
-### 🔧 DevTools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux&theme=dark" />
+**AI/ML:** TensorFlow, OpenCV, HuggingFace, OpenAI API, LangChain
 
-### 🤖 AI / ML
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-</div>
+**Tools:** Git, Docker, Vercel, Linux/CLI, VS Code
 
 ---
 
-## 📊 GitHub Analytics
+## 2026 Goals
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aadityaae&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadityaae&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aadityaae&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=00D4FF&currStreakLabel=7C3AED"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aadityaae&bg_color=0d1117&color=7c3aed&line=00d4ff&point=ffffff&area=true&area_color=7c3aed&hide_border=true"/>
-
-</div>
+- Launch a SaaS product (in progress)
+- Deepen Docker/DevOps knowledge
+- Make open source contributions
+- Start a technical blog
 
 ---
 
-## 🏆 GitHub Trophies
+## Contact
 
-<div align="center">
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Aadityaae&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
----
-
-## 📌 Pinned Repos
-
-<div align="center">
-
-[![ConnectHub](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=connecthub&theme=midnight-purple&hide_border=true)](https://github.com/Aadityaae/connecthub)
-[![SafeWomen](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=SafeWomen&theme=midnight-purple&hide_border=true)](https://github.com/Aadityaae/SafeWomen)
-[![Emotion Detector](https://github-readme-stats.vercel.app/api/pin/?username=Aadityaae&repo=deepface_emotion_detector&theme=midnight-purple&hide_border=true)](https://github.com/Aadityaae/deepface_emotion_detector)
-
-</div>
-
----
-
-## 🧠 Dev Skill Matrix
-
-```
-FRONTEND DEVELOPMENT
-React / Next.js       ████████████████████░  95%
-TypeScript            ██████████████████░░░  88%
-Tailwind CSS          ████████████████████░  92%
-UI/UX Design          ████████████████░░░░░  78%
-
-BACKEND DEVELOPMENT
-Django / DRF          ██████████████████░░░  85%
-Node.js / Express     ████████████████░░░░░  78%
-REST API Design       ████████████████████░  92%
-SQL + NoSQL           ████████████████░░░░░  80%
-
-AI / MACHINE LEARNING
-Computer Vision       ████████████████░░░░░  76%
-Model Integration     ██████████████████░░░  84%
-LLM / API Usage       ████████████████████░  90%
-Data Pipelines        ████████████░░░░░░░░░  60%
-
-DEVOPS & INFRASTRUCTURE
-Git / GitHub          ████████████████████░  95%
-Vercel / Deployment   ████████████████████░  90%
-Docker                ████████████░░░░░░░░░  58%
-Linux / CLI           ██████████████████░░░  85%
-```
-
----
-
-## 🗓️ 2026 Roadmap
-
-| Goal | Status | Target |
-|------|--------|--------|
-| 🚀 Launch SaaS Product | 🔄 In Progress | Q2 2026 |
-| ⭐ 100 GitHub Stars | 🔄 In Progress | Q3 2026 |
-| 🐳 Docker / DevOps Deep Dive | 📌 Planned | Q3 2026 |
-| 🌍 Open Source Contributions | 📌 Planned | Q4 2026 |
-| ✍️ Technical Blog | 📌 Planned | Q4 2026 |
-
-```
-[Q1–Q2 2026]  ✅ ConnectHub MVP  ✅ SafeWomen v1  🔄 SaaS launch
-[Q3–Q4 2026]  📌 Docker/K8s  📌 3+ OSS contributions  📌 Dev blog
-```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aadityaae/Aadityaae/output/github-snake.svg" />
-  </picture>
-</div>
-
-> **One-time setup** — create `.github/workflows/snake.yml` in your profile repo, then run it once from the Actions tab.
-
-<details>
-<summary>📋 Click to copy snake.yml workflow</summary>
-
-```yaml
-name: Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-```
-
-Go to **Settings → Actions → General → Workflow permissions** → enable **Read and write permissions**.
-
-</details>
-
----
-
-## 💭 Philosophy
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   while (alive) {                                    ║
-║       identify_problem();                            ║
-║       build_mvp();          // ship fast             ║
-║       get_feedback();       // iterate always        ║
-║       improve();            // compound daily        ║
-║       repeat();                                      ║
-║   }                                                  ║
-║                                                      ║
-║   // "Build first. Perfect later."                   ║
-║   // "Shipping > Planning"                           ║
-║   // "WORK WORK WORK ⚡"                             ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<br/>
-
-**Open to:** Internships · Freelance · Collabs · Interesting ideas 🚀
-
-</div>
-
----
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00D4FF,50:7C3AED,100:090979&section=footer"/>
-<sub>⚡ Built with passion — Aaditya Sharma · 2026</sub>
-</div>
+- [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- [Portfolio](https://YOUR_PORTFOLIO.vercel.app)
+- [Email](mailto:YOUR_EMAIL)
+- [Twitter/X](https://twitter.com/YOUR_TWITTER)
